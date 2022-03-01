@@ -1,0 +1,185 @@
+codigo_municipio;descricao;macrorregiao;cres;regiao_metropolitana;referencia
+230010;ABAIARA                                 ;3;19;N;201912
+230015;ACARAPE                                 ;1;3;N;201912
+230020;ACARAU                                  ;2;12;N;201912
+230030;ACOPIARA                                ;3;18;N;201912
+230040;AIUABA                                  ;4;14;N;201912
+230050;ALCANTARAS                              ;2;11;N;201912
+230060;ALTANEIRA                               ;3;20;N;201912
+230070;ALTO SANTO                              ;5;10;N;201912
+230075;AMONTADA                                ;1;6;N;201912
+230080;ANTONINA DO NORTE                       ;3;20;N;201912
+230090;APUIARES                                ;1;2;N;201912
+230100;AQUIRAZ                                 ;1;1;S;201912
+230110;ARACATI                                 ;5;7;N;201912
+230120;ARACOIABA                               ;1;4;N;201912
+230125;ARARENDA                                ;2;15;N;201912
+230130;ARARIPE                                 ;3;20;N;201912
+230140;ARATUBA                                 ;1;4;N;201912
+230150;ARNEIROZ                                ;4;14;N;201912
+230160;ASSARE                                  ;3;20;N;201912
+230170;AURORA                                  ;3;19;N;201912
+230180;BAIXIO                                  ;3;17;N;201912
+230185;BANABUIU                                ;4;8;N;201912
+230190;BARBALHA                                ;3;21;N;201912
+230195;BARREIRA                                ;1;3;N;201912
+230200;BARRO                                   ;3;19;N;201912
+230205;BARROQUINHA                             ;2;16;N;201912
+230210;BATURITE                                ;1;4;N;201912
+230220;BEBERIBE                                ;1;22;N;201912
+230230;BELA CRUZ                               ;2;12;N;201912
+230240;BOA VIAGEM                              ;4;5;N;201912
+230250;BREJO SANTO                             ;3;19;N;201912
+230260;CAMOCIM                                 ;2;16;N;201912
+230270;CAMPOS SALES                            ;3;20;N;201912
+230280;CANINDE                                 ;4;5;N;201912
+230290;CAPISTRANO                              ;1;4;N;201912
+230300;CARIDADE                                ;4;5;N;201912
+230310;CARIRE                                  ;2;11;N;201912
+230320;CARIRIACU                               ;3;21;N;201912
+230330;CARIUS                                  ;3;18;N;201912
+230340;CARNAUBAL                               ;2;13;N;201912
+230350;CASCAVEL                                ;1;22;S;201912
+230360;CATARINA                                ;3;18;N;201912
+230365;CATUNDA                                 ;2;11;N;201912
+230370;CAUCAIA                                 ;1;2;S;201912
+230380;CEDRO                                   ;3;17;N;201912
+230390;CHAVAL                                  ;2;16;N;201912
+230393;CHORO                                   ;4;8;N;201912
+230395;CHOROZINHO                              ;1;22;S;201912
+230400;COREAU                                  ;2;11;N;201912
+230410;CRATEUS                                 ;2;15;N;201912
+230420;CRATO                                   ;3;20;N;201912
+230423;CROATA                                  ;2;13;N;201912
+230425;CRUZ                                    ;2;12;N;201912
+230426;DEPUTADO IRAPUAN PINHEIRO               ;3;18;N;201912
+230427;ERERE                                   ;5;10;N;201912
+230428;EUSEBIO                                 ;1;1;S;201912
+230430;FARIAS BRITO                            ;3;20;N;201912
+230435;FORQUILHA                               ;2;11;N;201912
+230440;FORTALEZA                               ;1;1;S;201912
+230445;FORTIM                                  ;5;7;N;201912
+230450;FRECHEIRINHA                            ;2;11;N;201912
+230460;GENERAL SAMPAIO                         ;1;2;N;201912
+230465;GRACA                                   ;2;11;N;201912
+230470;GRANJA                                  ;2;16;N;201912
+230480;GRANJEIRO                               ;3;21;N;201912
+230490;GROAIRAS                                ;2;11;N;201912
+230495;GUAIUBA                                 ;1;3;S;201912
+230500;GUARACIABA DO NORTE                     ;2;13;N;201912
+230510;GUARAMIRANGA                            ;1;4;N;201912
+230520;HIDROLANDIA                             ;2;11;N;201912
+230523;HORIZONTE                               ;1;22;S;201912
+230526;IBARETAMA                               ;4;8;N;201912
+230530;IBIAPINA                                ;2;13;N;201912
+230533;IBICUITINGA                             ;4;8;N;201912
+230535;ICAPUI                                  ;5;7;N;201912
+230540;ICO                                     ;3;17;N;201912
+230550;IGUATU                                  ;3;18;N;201912
+230560;INDEPENDENCIA                           ;2;15;N;201912
+230565;IPAPORANGA                              ;2;15;N;201912
+230570;IPAUMIRIM                               ;3;17;N;201912
+230580;IPU                                     ;2;11;N;201912
+230590;IPUEIRAS                                ;2;15;N;201912
+230600;IRACEMA                                 ;5;10;N;201912
+230610;IRAUCUBA                                ;2;11;N;201912
+230620;ITAICABA                                ;5;7;N;201912
+230625;ITAITINGA                               ;1;1;S;201912
+230630;ITAPAGE                                 ;1;2;N;201912
+230640;ITAPIPOCA                               ;1;6;N;201912
+230650;ITAPIUNA                                ;1;4;N;201912
+230655;ITAREMA                                 ;2;12;N;201912
+230660;ITATIRA                                 ;4;5;N;201912
+230670;JAGUARETAMA                             ;5;9;N;201912
+230680;JAGUARIBARA                             ;5;10;N;201912
+230690;JAGUARIBE                               ;5;10;N;201912
+230700;JAGUARUANA                              ;5;9;N;201912
+230710;JARDIM                                  ;3;21;N;201912
+230720;JATI                                    ;3;19;N;201912
+230725;JIJOCA DE JERICOACOARA                  ;2;12;N;201912
+230730;JUAZEIRO DO NORTE                       ;3;21;N;201912
+230740;JUCAS                                   ;3;18;N;201912
+230750;LAVRAS DA MANGABEIRA                    ;3;17;N;201912
+230760;LIMOEIRO DO NORTE                       ;5;10;N;201912
+230763;MADALENA                                ;4;5;N;201912
+230765;MARACANAU                               ;1;3;S;201912
+230770;MARANGUAPE                              ;1;3;S;201912
+230780;MARCO                                   ;2;12;N;201912
+230790;MARTINOPOLE                             ;2;16;N;201912
+230800;MASSAPE                                 ;2;11;N;201912
+230810;MAURITI                                 ;3;19;N;201912
+230820;MERUOCA                                 ;2;11;N;201912
+230830;MILAGRES                                ;3;19;N;201912
+230835;MILHA                                   ;4;8;N;201912
+230837;MIRAIMA                                 ;1;6;N;201912
+230840;MISSAO VELHA                            ;3;21;N;201912
+230850;MOMBACA                                 ;3;18;N;201912
+230860;MONSENHOR TABOSA                        ;2;15;N;201912
+230870;MORADA NOVA                             ;5;9;N;201912
+230880;MORAUJO                                 ;2;11;N;201912
+230890;MORRINHOS                               ;2;12;N;201912
+230900;MUCAMBO                                 ;2;11;N;201912
+230910;MULUNGU                                 ;1;4;N;201912
+230920;NOVA OLINDA                             ;3;20;N;201912
+230930;NOVA RUSSAS                             ;2;15;N;201912
+230940;NOVO ORIENTE                            ;2;15;N;201912
+230945;OCARA                                   ;1;22;N;201912
+230950;OROS                                    ;3;17;N;201912
+230960;PACAJUS                                 ;1;22;S;201912
+230970;PACATUBA                                ;1;3;S;201912
+230980;PACOTI                                  ;1;4;N;201912
+230990;PACUJA                                  ;2;11;N;201912
+231000;PALHANO                                 ;5;9;N;201912
+231010;PALMACIA                                ;1;3;N;201912
+231020;PARACURU                                ;1;2;S;201912
+231025;PARAIPABA                               ;1;2;S;201912
+231030;PARAMBU                                 ;4;14;N;201912
+231040;PARAMOTI                                ;4;5;N;201912
+231050;PEDRA BRANCA                            ;4;8;N;201912
+231060;PENAFORTE                               ;3;19;N;201912
+231070;PENTECOSTE                              ;1;2;N;201912
+231080;PEREIRO                                 ;5;10;N;201912
+231085;PINDORETAMA                             ;1;22;S;201912
+231090;PIQUET CARNEIRO                         ;3;18;N;201912
+231095;PIRES FERREIRA                          ;2;11;N;201912
+231100;PORANGA                                 ;2;15;N;201912
+231110;PORTEIRAS                               ;3;19;N;201912
+231120;POTENGI                                 ;3;20;N;201912
+231123;POTIRETAMA                              ;5;10;N;201912
+231126;QUITERIANOPOLIS                         ;2;15;N;201912
+231130;QUIXADA                                 ;4;8;N;201912
+231135;QUIXELO                                 ;3;18;N;201912
+231140;QUIXERAMOBIM                            ;4;8;N;201912
+231150;QUIXERE                                 ;5;10;N;201912
+231160;REDENCAO                                ;1;3;N;201912
+231170;RERIUTABA                               ;2;11;N;201912
+231180;RUSSAS                                  ;5;9;N;201912
+231190;SABOEIRO                                ;3;18;N;201912
+231195;SALITRE                                 ;3;20;N;201912
+231200;SANTANA DO ACARAU                       ;2;11;N;201912
+231210;SANTANA DO CARIRI                       ;3;20;N;201912
+231220;SANTA QUITERIA                          ;2;11;N;201912
+231230;SAO BENEDITO                            ;2;13;N;201912
+231240;SAO GONCALO DO AMARANTE                 ;1;2;S;201912
+231250;SAO JOAO DO JAGUARIBE                   ;5;10;N;201912
+231260;SAO LUIS DO CURU                        ;1;2;S;201912
+231270;SENADOR POMPEU                          ;4;8;N;201912
+231280;SENADOR SA                              ;2;11;N;201912
+231290;SOBRAL                                  ;2;11;N;201912
+231300;SOLONOPOLE                              ;4;8;N;201912
+231310;TABULEIRO DO NORTE                      ;5;10;N;201912
+231320;TAMBORIL                                ;2;15;N;201912
+231325;TARRAFAS                                ;3;20;N;201912
+231330;TAUA                                    ;4;14;N;201912
+231335;TEJUCUOCA                               ;1;2;N;201912
+231340;TIANGUA                                 ;2;13;N;201912
+231350;TRAIRI                                  ;1;6;S;201912
+231355;TURURU                                  ;1;6;N;201912
+231360;UBAJARA                                 ;2;13;N;201912
+231370;UMARI                                   ;3;17;N;201912
+231375;UMIRIM                                  ;1;6;N;201912
+231380;URUBURETAMA                             ;1;6;N;201912
+231390;URUOCA                                  ;2;11;N;201912
+231395;VARJOTA                                 ;2;11;N;201912
+231400;VARZEA ALEGRE                           ;3;20;N;201912
+231410;VICOSA DO CEARA                         ;2;13;N;201912
