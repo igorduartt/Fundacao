@@ -1,0 +1,185 @@
+﻿codigo_municipio;descricao;macrorregiao;cres;ADS;SRS
+230010;ABAIARA                                 ;3;19;BREJO SANTO;CARIRI
+230015;ACARAPE                                 ;1;3;MARACANAU  ;FORTALEZA
+230020;ACARAU                                  ;2;12;ACARAU     ;SOBRAL
+230030;ACOPIARA                                ;3;18;IGUATU     ;CARIRI
+230040;AIUABA                                  ;4;14;TAUA       ;SERTAO CENTRAL
+230050;ALCANTARAS                              ;2;11;SOBRAL     ;SOBRAL
+230060;ALTANEIRA                               ;3;20;CRATO      ;CARIRI
+230070;ALTO SANTO                              ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230075;AMONTADA                                ;1;6;ITAPIPOCA  ;FORTALEZA
+230080;ANTONINA DO NORTE                       ;3;20;CRATO      ;CARIRI
+230090;APUIARES                                ;1;2;CAUCAIA    ;FORTALEZA
+230100;AQUIRAZ                                 ;1;1;FORTALEZA  ;FORTALEZA
+230110;ARACATI                                 ;5;7;ARACATI    ;LITORAL LESTE/JAGUARIBE
+230120;ARACOIABA                               ;1;4;BATURITE   ;FORTALEZA
+230125;ARARENDA                                ;2;15;CRATEUS    ;SOBRAL
+230130;ARARIPE                                 ;3;20;CRATO      ;CARIRI
+230140;ARATUBA                                 ;1;4;BATURITE   ;FORTALEZA
+230150;ARNEIROZ                                ;4;14;TAUA       ;SERTAO CENTRAL
+230160;ASSARE                                  ;3;20;CRATO      ;CARIRI
+230170;AURORA                                  ;3;19;BREJO SANTO;CARIRI
+230180;BAIXIO                                  ;3;17;ICO        ;CARIRI
+230185;BANABUIU                                ;4;8;QUIXADA    ;SERTAO CENTRAL
+230190;BARBALHA                                ;3;21;JUAZEIRO   ;CARIRI
+230195;BARREIRA                                ;1;3;MARACANAU  ;FORTALEZA
+230200;BARRO                                   ;3;19;BREJO SANTO;CARIRI
+230205;BARROQUINHA                             ;2;16;CAMOCIM    ;SOBRAL
+230210;BATURITE                                ;1;4;BATURITE   ;FORTALEZA
+230220;BEBERIBE                                ;1;22;CASCAVEL   ;FORTALEZA
+230230;BELA CRUZ                               ;2;12;ACARAU     ;SOBRAL
+230240;BOA VIAGEM                              ;4;5;CANINDE    ;SERTAO CENTRAL
+230250;BREJO SANTO                             ;3;19;BREJO SANTO;CARIRI
+230260;CAMOCIM                                 ;2;16;CAMOCIM    ;SOBRAL
+230270;CAMPOS SALES                            ;3;20;CRATO      ;CARIRI
+230280;CANINDE                                 ;4;5;CANINDE    ;SERTAO CENTRAL
+230290;CAPISTRANO                              ;1;4;BATURITE   ;FORTALEZA
+230300;CARIDADE                                ;4;5;CANINDE    ;SERTAO CENTRAL
+230310;CARIRE                                  ;2;11;SOBRAL     ;SOBRAL
+230320;CARIRIACU                               ;3;21;JUAZEIRO   ;CARIRI
+230330;CARIUS                                  ;3;18;IGUATU     ;CARIRI
+230340;CARNAUBAL                               ;2;13;TIANGUA    ;SOBRAL
+230350;CASCAVEL                                ;1;22;CASCAVEL   ;FORTALEZA
+230360;CATARINA                                ;3;18;IGUATU     ;CARIRI
+230365;CATUNDA                                 ;2;11;SOBRAL     ;SOBRAL
+230370;CAUCAIA                                 ;1;2;CAUCAIA    ;FORTALEZA
+230380;CEDRO                                   ;3;17;ICO        ;CARIRI
+230390;CHAVAL                                  ;2;16;CAMOCIM    ;SOBRAL
+230393;CHORO                                   ;4;8;QUIXADA    ;SERTAO CENTRAL
+230395;CHOROZINHO                              ;1;22;CASCAVEL   ;FORTALEZA
+230400;COREAU                                  ;2;11;SOBRAL     ;SOBRAL
+230410;CRATEUS                                 ;2;15;CRATEUS    ;SOBRAL
+230420;CRATO                                   ;3;20;CRATO      ;CARIRI
+230423;CROATA                                  ;2;13;TIANGUA    ;SOBRAL
+230425;CRUZ                                    ;2;12;ACARAU     ;SOBRAL
+230426;DEPUTADO IRAPUAN PINHEIRO               ;3;18;IGUATU     ;CARIRI
+230427;ERERE                                   ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230428;EUSEBIO                                 ;1;1;FORTALEZA  ;FORTALEZA
+230430;FARIAS BRITO                            ;3;20;CRATO      ;CARIRI
+230435;FORQUILHA                               ;2;11;SOBRAL     ;SOBRAL
+230440;FORTALEZA                               ;1;1;FORTALEZA  ;FORTALEZA
+230445;FORTIM                                  ;5;7;ARACATI    ;LITORAL LESTE/JAGUARIBE
+230450;FRECHEIRINHA                            ;2;11;SOBRAL     ;SOBRAL
+230460;GENERAL SAMPAIO                         ;1;2;CAUCAIA    ;FORTALEZA
+230465;GRACA                                   ;2;11;SOBRAL     ;SOBRAL
+230470;GRANJA                                  ;2;16;CAMOCIM    ;SOBRAL
+230480;GRANJEIRO                               ;3;21;JUAZEIRO   ;CARIRI
+230490;GROAIRAS                                ;2;11;SOBRAL     ;SOBRAL
+230495;GUAIUBA                                 ;1;3;MARACANAU  ;FORTALEZA
+230500;GUARACIABA DO NORTE                     ;2;13;TIANGUA    ;SOBRAL
+230510;GUARAMIRANGA                            ;1;4;BATURITE   ;FORTALEZA
+230520;HIDROLANDIA                             ;2;11;SOBRAL     ;SOBRAL
+230523;HORIZONTE                               ;1;22;CASCAVEL   ;FORTALEZA
+230526;IBARETAMA                               ;4;8;QUIXADA    ;SERTAO CENTRAL
+230530;IBIAPINA                                ;2;13;TIANGUA    ;SOBRAL
+230533;IBICUITINGA                             ;4;8;QUIXADA    ;SERTAO CENTRAL
+230535;ICAPUI                                  ;5;7;ARACATI    ;LITORAL LESTE/JAGUARIBE
+230540;ICO                                     ;3;17;ICO        ;CARIRI
+230550;IGUATU                                  ;3;18;IGUATU     ;CARIRI
+230560;INDEPENDENCIA                           ;2;15;CRATEUS    ;SOBRAL
+230565;IPAPORANGA                              ;2;15;CRATEUS    ;SOBRAL
+230570;IPAUMIRIM                               ;3;17;ICO        ;CARIRI
+230580;IPU                                     ;2;11;SOBRAL     ;SOBRAL
+230590;IPUEIRAS                                ;2;15;CRATEUS    ;SOBRAL
+230600;IRACEMA                                 ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230610;IRAUCUBA                                ;2;11;SOBRAL     ;SOBRAL
+230620;ITAICABA                                ;5;7;ARACATI    ;LITORAL LESTE/JAGUARIBE
+230625;ITAITINGA                               ;1;1;FORTALEZA  ;FORTALEZA
+230630;ITAPAGE                                 ;1;2;CAUCAIA    ;FORTALEZA
+230640;ITAPIPOCA                               ;1;6;ITAPIPOCA  ;FORTALEZA
+230650;ITAPIUNA                                ;1;4;BATURITE   ;FORTALEZA
+230655;ITAREMA                                 ;2;12;ACARAU     ;SOBRAL
+230660;ITATIRA                                 ;4;5;CANINDE    ;SERTAO CENTRAL
+230670;JAGUARETAMA                             ;5;9;RUSSAS     ;LITORAL LESTE/JAGUARIBE
+230680;JAGUARIBARA                             ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230690;JAGUARIBE                               ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230700;JAGUARUANA                              ;5;9;RUSSAS     ;LITORAL LESTE/JAGUARIBE
+230710;JARDIM                                  ;3;21;JUAZEIRO   ;CARIRI
+230720;JATI                                    ;3;19;BREJO SANTO;CARIRI
+230725;JIJOCA DE JERICOACOARA                  ;2;12;ACARAU     ;SOBRAL
+230730;JUAZEIRO DO NORTE                       ;3;21;JUAZEIRO   ;CARIRI
+230740;JUCAS                                   ;3;18;IGUATU     ;CARIRI
+230750;LAVRAS DA MANGABEIRA                    ;3;17;ICO        ;CARIRI
+230760;LIMOEIRO DO NORTE                       ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+230763;MADALENA                                ;4;5;CANINDE    ;SERTAO CENTRAL
+230765;MARACANAU                               ;1;3;MARACANAU  ;FORTALEZA
+230770;MARANGUAPE                              ;1;3;MARACANAU  ;FORTALEZA
+230780;MARCO                                   ;2;12;ACARAU     ;SOBRAL
+230790;MARTINOPOLE                             ;2;16;CAMOCIM    ;SOBRAL
+230800;MASSAPE                                 ;2;11;SOBRAL     ;SOBRAL
+230810;MAURITI                                 ;3;19;BREJO SANTO;CARIRI
+230820;MERUOCA                                 ;2;11;SOBRAL     ;SOBRAL
+230830;MILAGRES                                ;3;19;BREJO SANTO;CARIRI
+230835;MILHA                                   ;4;8;QUIXADA    ;SERTAO CENTRAL
+230837;MIRAIMA                                 ;1;6;ITAPIPOCA  ;FORTALEZA
+230840;MISSAO VELHA                            ;3;21;JUAZEIRO   ;CARIRI
+230850;MOMBACA                                 ;3;18;IGUATU     ;CARIRI
+230860;MONSENHOR TABOSA                        ;2;15;CRATEUS    ;SOBRAL
+230870;MORADA NOVA                             ;5;9;RUSSAS     ;LITORAL LESTE/JAGUARIBE
+230880;MORAUJO                                 ;2;11;SOBRAL     ;SOBRAL
+230890;MORRINHOS                               ;2;12;ACARAU     ;SOBRAL
+230900;MUCAMBO                                 ;2;11;SOBRAL     ;SOBRAL
+230910;MULUNGU                                 ;1;4;BATURITE   ;FORTALEZA
+230920;NOVA OLINDA                             ;3;20;CRATO      ;CARIRI
+230930;NOVA RUSSAS                             ;2;15;CRATEUS    ;SOBRAL
+230940;NOVO ORIENTE                            ;2;15;CRATEUS    ;SOBRAL
+230945;OCARA                                   ;1;22;CASCAVEL   ;FORTALEZA
+230950;OROS                                    ;3;17;ICO        ;CARIRI
+230960;PACAJUS                                 ;1;22;CASCAVEL   ;FORTALEZA
+230970;PACATUBA                                ;1;3;MARACANAU  ;FORTALEZA
+230980;PACOTI                                  ;1;4;BATURITE   ;FORTALEZA
+230990;PACUJA                                  ;2;11;SOBRAL     ;SOBRAL
+231000;PALHANO                                 ;5;9;RUSSAS     ;LITORAL LESTE/JAGUARIBE
+231010;PALMACIA                                ;1;3;MARACANAU  ;FORTALEZA
+231020;PARACURU                                ;1;2;CAUCAIA    ;FORTALEZA
+231025;PARAIPABA                               ;1;2;CAUCAIA    ;FORTALEZA
+231030;PARAMBU                                 ;4;14;TAUA       ;SERTAO CENTRAL
+231040;PARAMOTI                                ;4;5;CANINDE    ;SERTAO CENTRAL
+231050;PEDRA BRANCA                            ;4;8;QUIXADA    ;SERTAO CENTRAL
+231060;PENAFORTE                               ;3;19;BREJO SANTO;CARIRI
+231070;PENTECOSTE                              ;1;2;CAUCAIA    ;FORTALEZA
+231080;PEREIRO                                 ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+231085;PINDORETAMA                             ;1;22;CASCAVEL   ;FORTALEZA
+231090;PIQUET CARNEIRO                         ;3;18;IGUATU     ;CARIRI
+231095;PIRES FERREIRA                          ;2;11;SOBRAL     ;SOBRAL
+231100;PORANGA                                 ;2;15;CRATEUS    ;SOBRAL
+231110;PORTEIRAS                               ;3;19;BREJO SANTO;CARIRI
+231120;POTENGI                                 ;3;20;CRATO      ;CARIRI
+231123;POTIRETAMA                              ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+231126;QUITERIANOPOLIS                         ;2;15;CRATEUS    ;SOBRAL
+231130;QUIXADA                                 ;4;8;QUIXADA    ;SERTAO CENTRAL
+231135;QUIXELO                                 ;3;18;IGUATU     ;CARIRI
+231140;QUIXERAMOBIM                            ;4;8;QUIXADA    ;SERTAO CENTRAL
+231150;QUIXERE                                 ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+231160;REDENCAO                                ;1;3;MARACANAU  ;FORTALEZA
+231170;RERIUTABA                               ;2;11;SOBRAL     ;SOBRAL
+231180;RUSSAS                                  ;5;9;RUSSAS     ;LITORAL LESTE/JAGUARIBE
+231190;SABOEIRO                                ;3;18;IGUATU     ;CARIRI
+231195;SALITRE                                 ;3;20;CRATO      ;CARIRI
+231200;SANTANA DO ACARAU                       ;2;11;SOBRAL     ;SOBRAL
+231210;SANTANA DO CARIRI                       ;3;20;CRATO      ;CARIRI
+231220;SANTA QUITERIA                          ;2;11;SOBRAL     ;SOBRAL
+231230;SAO BENEDITO                            ;2;13;TIANGUA    ;SOBRAL
+231240;SAO GONCALO DO AMARANTE                 ;1;2;CAUCAIA    ;FORTALEZA
+231250;SAO JOAO DO JAGUARIBE                   ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+231260;SAO LUIS DO CURU                        ;1;2;CAUCAIA    ;FORTALEZA
+231270;SENADOR POMPEU                          ;4;8;QUIXADA    ;SERTAO CENTRAL
+231280;SENADOR SA                              ;2;11;SOBRAL     ;SOBRAL
+231290;SOBRAL                                  ;2;11;SOBRAL     ;SOBRAL
+231300;SOLONOPOLE                              ;4;8;QUIXADA    ;SERTAO CENTRAL
+231310;TABULEIRO DO NORTE                      ;5;10;LIMOEIRO   ;LITORAL LESTE/JAGUARIBE
+231320;TAMBORIL                                ;2;15;CRATEUS    ;SOBRAL
+231325;TARRAFAS                                ;3;20;CRATO      ;CARIRI
+231330;TAUA                                    ;4;14;TAUA       ;SERTAO CENTRAL
+231335;TEJUCUOCA                               ;1;2;CAUCAIA    ;FORTALEZA
+231340;TIANGUA                                 ;2;13;TIANGUA    ;SOBRAL
+231350;TRAIRI                                  ;1;6;ITAPIPOCA  ;FORTALEZA
+231355;TURURU                                  ;1;6;ITAPIPOCA  ;FORTALEZA
+231360;UBAJARA                                 ;2;13;TIANGUA    ;SOBRAL
+231370;UMARI                                   ;3;17;ICO        ;CARIRI
+231375;UMIRIM                                  ;1;6;ITAPIPOCA  ;FORTALEZA
+231380;URUBURETAMA                             ;1;6;ITAPIPOCA  ;FORTALEZA
+231390;URUOCA                                  ;2;11;SOBRAL     ;SOBRAL
+231395;VARJOTA                                 ;2;11;SOBRAL     ;SOBRAL
+231400;VARZEA ALEGRE                           ;3;20;CRATO      ;CARIRI
+231410;VICOSA DO CEARA                         ;2;13;TIANGUA    ;SOBRAL
